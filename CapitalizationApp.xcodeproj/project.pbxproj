@@ -44,6 +44,7 @@
 		8B7DC0E32816EF1000759606 /* CapitalizationAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CapitalizationAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B7DC0E72816EF1000759606 /* CapitalizationAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalizationAppUITests.swift; sourceTree = "<group>"; };
 		8B7DC0E92816EF1000759606 /* CapitalizationAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalizationAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8B7DC0F6281A9BF000759606 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		8B7DC0C02816EF0B00759606 = {
 			isa = PBXGroup;
 			children = (
+				8B7DC0F6281A9BF000759606 /* README.md */,
 				8B7DC0CB2816EF0B00759606 /* CapitalizationApp */,
 				8B7DC0DC2816EF1000759606 /* CapitalizationAppTests */,
 				8B7DC0E62816EF1000759606 /* CapitalizationAppUITests */,
